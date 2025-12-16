@@ -9,24 +9,15 @@
     alt="Typing SVG" 
   />
 </p>
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 ### 🧠 About Me
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
 
 - 🎓 I'm currently a **Computer Science student (3rd year)**
 - 💻 Exploring the world of development — both **frontend** and **backend**
 - 📚 Currently learning: `JavaScript`, `C++`, and `React`
 - 😄 Fun fact: I break things just to figure out how they work
 
-    </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+---
 
 
 ### 🛠️ Skills
