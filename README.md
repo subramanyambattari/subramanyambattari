@@ -4,8 +4,12 @@
 <h3 align="center">🚀 Just a beginner, breaking and building stuff in tech!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Science+Student;Learning+JavaScript+and+C%2B%2B;Trying+to+make+things+look+cool+in+code" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=700&lines=3rd+Year+Computer+Science+Student;Learning+JavaScript+and+C%2B%2B;Trying+to+make+things+look+cool+in+code" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
